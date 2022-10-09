@@ -1,0 +1,7 @@
+.main-container {
+  min-width: 34rem;
+}
+
+.search_container .weather_container {
+  margin: 1rem auto;
+}
